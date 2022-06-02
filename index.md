@@ -9,6 +9,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 ## Partners
 
 | ![](images/CSCRC_logo-1.png) | ![](images/penten_logo.png)  |
+| --- | --- |
 | The CSCRC is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities.
 
 We build effective collaborations between industry, government and researchers, creating real-world solutions for pressing cyber-related problems.
