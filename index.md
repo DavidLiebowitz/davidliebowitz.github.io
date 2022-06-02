@@ -2,11 +2,17 @@
 
 The UNSW Sydney Cyber Deception Research Lab is a multidisciplinary research group investigating the construction, use and impact of deception. Themes include Machine Learning to create and detect deceptions, metrics and measurements of effectiveness, and perception and cognitive aspects.
 
-Launched in early 2020 with support from the [Cyber Security CRC](https://www.cybersecuritycrc.org.au/) and [Penten](www.penten.com), our current focus is deceptive content creation. We have a number of projects that learn models of real world elements of the IT stack and generate realistic fakes, including documents, databases, audio and network traffic.
+Launched in early 2020 with support from the [Cyber Security CRC](https://www.cybersecuritycrc.org.au/) and [Penten](https://www.penten.com), our current focus is deceptive content creation. We have a number of projects that learn models of real world elements of the IT stack and generate realistic fakes, including documents, databases, audio and network traffic.
 
 ## People
 
 ## Partners
+![images/CSCRC_logo-1.png]
+The CSCRC is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities.
+
+We build effective collaborations between industry, government and researchers, creating real-world solutions for pressing cyber-related problems.
+
+We achieve this by identifying, funding and supporting research projects that build Australia's cyber security capacity and address issues across the cyber spectrum, both technology and policy related. The CSCRC also undertakes a key public role in cyber security advocacy, providing evidence-based commentary around relevant cyber security issues.
 
 
 ### Header 3
