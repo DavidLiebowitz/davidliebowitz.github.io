@@ -7,6 +7,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 ## People
 
 ## Partners
+
 | ![](images/CSCRC_logo-1.png) | |
 The CSCRC is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities.
 
