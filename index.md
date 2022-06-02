@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+# Cyber Deception Research Lab
 
-You can use the [editor on GitHub](https://github.com/DavidLiebowitz/davidliebowitz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The UNSW Sydney Cyber Deception Research Lab is a multidisciplinary research group investigating the construction, use and impact of deception. Themes include Machine Learning to create and detect deceptions, metrics and measurements of effectiveness, and perception and cognitive aspects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Launched in early 2020 with support from the [Cyber Security CRC](https://www.cybersecuritycrc.org.au/) and [Penten](www.penten.com), our current focus is deceptive content creation. We have a number of projects that learn models of real world elements of the IT stack and generate realistic fakes, including documents, databases, audio and network traffic.
 
 # Header 1
 ## Header 2
