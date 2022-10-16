@@ -26,20 +26,23 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |---|---|
 |[David Nguyen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)|[Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
 
- 
+ &nbsp;
+  
 ## Masters Students
 
 |![Michael Longland](/images/michael.png)|![Keerth Rathakumar](/images/keerth.jpg)|
 |---|---|
 |[Michael Longland](https://www.linkedin.com/in/michael-longland-58a12b12a/)|Keerth Rathakumar|
 
-
+&nbsp;
+ 
 ## Past Members
 
 |![Alexander Bunn](/images/Alex.png)|![Dr Cody Christopher](/images/Cody.png)|![Ricard Grace](/images/Ricard.png)|![Adam Green](/images/Adam.png)|
 |---|---|---|---|
 |[Alexander Bunn](https://www.linkedin.com/in/alexander-bunn/)|[Dr Cody Christopher](https://www.linkedin.com/in/cjchristopher/)|Ricard Grace|[Adam Green](https://www.linkedin.com/in/adam-green-5b8238172/)|
 
+ &nbsp;
 
 # Publications
 
@@ -49,6 +52,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 -	Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere. _TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing_, Proceedings of the 55th Hawaii International Conference on System Sciences. 2022 and [arXiv](https://arxiv.org/abs/2203.07580).
 -	David Nguyen, David Liebowitz, Surya Nepal and Salil Kanhere. [_HoneyCode: Automating Deceptive Software Repositories with Deep Generative Models_](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/986b6770-2027-4a7c-8a13-b80808a192db/content), Proceedings of the 54th Hawaii International Conference on System Sciences. 2021.
 
+ &nbsp;
 
 # Presentations
 
@@ -56,16 +60,13 @@ David Nguyen on HoneyCode
 
 <iframe title="David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020" width="580" height="326" src="https://www.youtube.com/embed/wnj_FqFZNe8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-
-<p>
+ &nbsp; 
 
 Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia. Aditya presents their work on Active cyber deception for attacker intent recognition using factored interactive POMDPs.
-</p>
 
 <iframe title="Aditya Shind on Active cyber deception for attacker intent recognition using factored interactive POMDPs, 12 August 2020" width="580" height="326" src="https://www.youtube.com/embed/lsWOKOcKPFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+&nbsp;
 
 # Partners
 
