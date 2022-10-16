@@ -51,9 +51,7 @@ David Nguyen on HoneyCode
 
 <p>
 
-Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia. Aditya presents their work on Active cyber deception for attacker intent recognition using factored interactive POMDPs.
 
-<iframe title="Aditya Shind on Active cyber deception for attacker intent recognition using factored interactive POMDPs, 12 August 2020" width="580" height="326" src="https://www.youtube.com/embed/lsWOKOcKPFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Partners
 
