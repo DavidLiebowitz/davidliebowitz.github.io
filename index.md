@@ -21,7 +21,6 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |![David Nguyen](/images/DavidN.png)|![Roelien Timmer](/images/Roelien.png)|
 |---|---|
 | [David Nguyen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)| [Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
-![image](https://user-images.githubusercontent.com/21324472/196030322-ee4829ae-aa00-4298-9bf8-569a7c400544.png)
 
 ## Masters Students
 
