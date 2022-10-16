@@ -29,7 +29,9 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |[Michael Longland](https://www.linkedin.com/in/michael-longland-58a12b12a/)|Keerth Rathakumar|
 
 ## Past Members
+
 |![Alexander Bunn](/images/Alex.png)|![Dr Cody Christopher](/images/Cody.png)|![Ricard Grace](/images/Ricard.png)|![Adam Green](/images/Adam.png)|
+|---|---|---|---|
 |[Alexander Bunn](https://www.linkedin.com/in/alexander-bunn/)|[Dr Cody Christopher](https://www.linkedin.com/in/cjchristopher/)|Ricard Grace|[Adam Green](https://www.linkedin.com/in/adam-green-5b8238172/)|
 
 
@@ -55,7 +57,7 @@ Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia
  
 ## Partners
 
- ![ ](images/CSCRC_logo-1.png)
+![ ](images/CSCRC_logo-1.png)
 The Cybersecurity Cooperative Research Centre is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities. We build effective collaborations between industry, government and researchers, creating real-world solutions for pressing cyber-related problems. We achieve this by identifying, funding and supporting research projects that build Australia's cyber security capacity and address issues across the cyber spectrum, both technology and policy related. The CSCRC also undertakes a key public role in cyber security advocacy, providing evidence-based commentary around relevant cyber security issue
 
 ![ ](images/penten_logo.png) 
