@@ -40,10 +40,10 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## Publications
 
-- Kristen Moore, Cody James Christopher, David Liebowitz, Surya Nepal and Renee Selvey. _Modelling direct messaging networks with multiple recipients for cyber deception_. In IEEE European Symposium on Security and Privacy, EuroS&P 2022, Genoa, Italy, June 6-10, 2022. IEEE, 2022 
+- Kristen Moore, Cody James Christopher, David Liebowitz, Surya Nepal and Renee Selvey. _Modelling direct messaging networks with multiple recipients for cyber deception_. In IEEE European Symposium on Security and Privacy, EuroS&P 2022, Genoa, Italy, June 6-10, 2022. IEEE, 2022 and [arXiv](https://arxiv.org/abs/2111.11932).
 -	David Liebowitz, Surya Nepal, Kristen Moore, Cody Christopher, Salil Kanhere, David Nguyen, Roelien Timmer, Michael Longland and Keerth Rathakumar. _Deception for Cyber Defence: Challenges and Opportunities._ In 2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) 2021 Dec 13 (pp. 173-182). 
 -	Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere. _Can pre-trained Transformers be used in detecting complex sensitive sentences?-A Monsanto case study._ In2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) 2021 Dec 13 (pp. 90-97). IEEE.
 -	 David Nguyen, David Liebowitz, Surya Nepal and Salil Kanhere., TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing, Proceedings of the 55th Hawaii International Conference on System Sciences. 2022 (accepted)
 -	Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere., HoneyCode: Automating Deceptive Software Repositories with Deep Generative Models, Proceedings of the 54th Hawaii International Conference on System Sciences. 2021
 
-
+## Presentations
