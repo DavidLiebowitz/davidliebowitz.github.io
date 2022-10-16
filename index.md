@@ -12,6 +12,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |---|---|
 |[Dr David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  |
 
+&nbsp;
 
 ## Collaborators
 
@@ -19,6 +20,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |---|---|---|
 |[Prof Salil Kanhere, UNSW](https://salilkanhere.net)|[Dr Kristen Moore, Data61](https://www.linkedin.com/in/kristenlmoore/)|[Dr Surya Nepal, Data61](https://research.csiro.au/distributed-systems-security/people/staff/)|
 
+&nbsp;
 
 ## PhD Students
 
@@ -26,7 +28,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |---|---|
 |[David Nguyen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)|[Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
 
- &nbsp;
+&nbsp;
   
 ## Masters Students
 
