@@ -56,3 +56,14 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 ### Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia. Aditya presents their work on Active cyber deception for attacker intent recognition using factored interactive POMDPs.
 
  <iframe title="Aditya Shind on Active cyber deception for attacker intent recognition using factored interactive POMDPs, 12 August 2020" width="580" height="326" src="https://www.youtube.com/embed/lsWOKOcKPFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ ## Partners
+
+![](images/CSCRC_logo-1.png)
+
+The Cybersecurity Cooperative Research Centre is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities. We build effective collaborations between industry, government and researchers, creating real-world solutions for pressing cyber-related problems. We achieve this by identifying, funding and supporting research projects that build Australia's cyber security capacity and address issues across the cyber spectrum, both technology and policy related. The CSCRC also undertakes a key public role in cyber security advocacy, providing evidence-based commentary around relevant cyber security issue
+
+![](images/penten_logo.png) 
+
+Penten is a Canberra based, cyber company focused on innovation in secure mobility and applied artificial intelligence (AI). Penten's AltoCrypt family of secure mobility solutions enable mobile secure access to classified information for government. This access provides government workers with the accessibility and flexibility of a modern workplace. Penten's Applied AI business unit creates realistic decoys using a novel combination of machine learning and artificial intelligence to detect and track sophisticated cyber adversaries. In 2018, Penten won Telstra Australian Business of the Year. In 2019, Penten was awarded Cyber Business of the Year at the Australian Defence Industry Awards; Most Innovative Company, Government sector at the AFR and Boss awards and Most Innovative Platform at the AFR and Boss Awards. Penten also ranks in the Top 20 of Australian Defence Magazines ANZ SME list.
+
