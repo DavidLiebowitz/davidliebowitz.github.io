@@ -1,3 +1,4 @@
+# Cyber Deception Research Lab 
 
 The UNSW Sydney Cyber Deception Research Lab is a multidisciplinary research group investigating the construction, use and impact of deception. Themes include Machine Learning to create and detect deceptions, metrics and measurements of effectiveness, and perception and cognitive aspects.
 
@@ -43,7 +44,15 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 - Kristen Moore, Cody James Christopher, David Liebowitz, Surya Nepal and Renee Selvey. _Modelling direct messaging networks with multiple recipients for cyber deception_. In IEEE European Symposium on Security and Privacy, EuroS&P 2022, Genoa, Italy, June 6-10, 2022. IEEE, 2022 and [arXiv](https://arxiv.org/abs/2111.11932).
 -	David Liebowitz, Surya Nepal, Kristen Moore, Cody Christopher, Salil Kanhere, David Nguyen, Roelien Timmer, Michael Longland and Keerth Rathakumar. _Deception for Cyber Defence: Challenges and Opportunities._ In 2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) 2021 Dec 13 (pp. 173-182) and [arXiv](https://arxiv.org/abs/2208.07127).
 -	Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere. _Can pre-trained Transformers be used in detecting complex sensitive sentences?-A Monsanto case study._ In2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) 2021 Dec 13 (pp. 90-97). IEEE and [arxiv](https://arxiv.org/abs/2203.06793).
--	 Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere. _TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing_, Proceedings of the 55th Hawaii International Conference on System Sciences. 2022 and [arXiv](https://arxiv.org/abs/2203.07580).
+-	Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere. _TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing_, Proceedings of the 55th Hawaii International Conference on System Sciences. 2022 and [arXiv](https://arxiv.org/abs/2203.07580).
 -	David Nguyen, David Liebowitz, Surya Nepal and Salil Kanhere. [_HoneyCode: Automating Deceptive Software Repositories with Deep Generative Models_](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/986b6770-2027-4a7c-8a13-b80808a192db/content), Proceedings of the 54th Hawaii International Conference on System Sciences. 2021.
 
 ## Presentations
+
+#### David Nguyen talks about HoneyCode
+
+[The CDRL presents David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020](https://www.youtube.com/embed/wnj_FqFZNe8)
+<h5 class="has-text-align-left">David Nguyen talks about HoneyCode</h5>
+
+
+<iframe title="The CDRL presents David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020" width="580" height="326" src="https://www.youtube.com/embed/wnj_FqFZNe8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
