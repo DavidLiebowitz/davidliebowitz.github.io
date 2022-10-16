@@ -17,17 +17,22 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |---|---|---|
 | [Prof Salil Kanhere, UNSW](https://salilkanhere.net)|[Dr Kristen Moore, Data61](https://www.linkedin.com/in/kristenlmoore/)|[Dr Surya Nepal, Data61](https://research.csiro.au/distributed-systems-security/people/staff/)|
 
-## Students
+## PhD Students
 
-|![David Ngyuen](/images/DavidH.png)|![Roelien Timmer](/images/Roelien.png)|
+|![David Ngyuen](/images/DavidN.png)|![Roelien Timmer](/images/Roelien.png)|
 |---|---|
 | [David Ngyuen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)| [Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
 
+## Masters Students
+
+|![Michael Longland](/images/Michael.png)|![Keerth Rathakumar](/images/Keerth.png)|
+|---|---|
+| Michael Longland](https://www.linkedin.com/i)| [Keerth Rathakumar](https://www.linkedin.com/in/)|
 
 ## Past Members
 |![Alexander Bunn](/images/Alex.png)|![Dr Cody Christopher](/images/Cody.png)|![Ricard Grace](/images/Ricard.png)|![Adam Green](/images/Adam.png)|
 |---|---|---|---|
-| [Alexander Bunn](https://www.linkedin.com/in/alexander-bunn/)|[Dr Cody Christopher](https://www.linkedin.com/in/cjchristopher/)|Ricard Grace] |[Adam Green](https://www.linkedin.com/in/adam-green-5b8238172/)|
+| [Alexander Bunn](https://www.linkedin.com/in/alexander-bunn/)|[Dr Cody Christopher](https://www.linkedin.com/in/cjchristopher/)|Ricard Grace|[Adam Green](https://www.linkedin.com/in/adam-green-5b8238172/)|
 
 ## Partners
 
