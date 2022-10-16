@@ -26,7 +26,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 |![Michael Longland](/images/michael.png)|![Keerth Rathakumar](/images/keerth.jpg)|
 |---|---|
-| Michael Longland](https://www.linkedin.com/i)| Keerth Rathakumar|
+|[Michael Longland](https://www.linkedin.com/in/michael-longland-58a12b12a/)| Keerth Rathakumar|
 
 ## Past Members
 |![Alexander Bunn](/images/Alex.png)|![Dr Cody Christopher](/images/Cody.png)|![Ricard Grace](/images/Ricard.png)|![Adam Green](/images/Adam.png)|
@@ -49,10 +49,4 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## Presentations
 
-#### David Nguyen talks about HoneyCode
-
-[The CDRL presents David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020](https://www.youtube.com/embed/wnj_FqFZNe8)
-<h5 class="has-text-align-left">David Nguyen talks about HoneyCode</h5>
-
-
-<iframe title="The CDRL presents David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020" width="580" height="326" src="https://www.youtube.com/embed/wnj_FqFZNe8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020" width="580" height="326" src="https://www.youtube.com/embed/wnj_FqFZNe8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
