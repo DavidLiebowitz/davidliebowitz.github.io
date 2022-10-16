@@ -21,6 +21,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |![David Nguyen](/images/DavidN.png)|![Roelien Timmer](/images/Roelien.png)|
 |---|---|
 | [David Nguyen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)| [Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
+![image](https://user-images.githubusercontent.com/21324472/196030322-ee4829ae-aa00-4298-9bf8-569a7c400544.png)
 
 ## Masters Students
 
@@ -54,6 +55,8 @@ Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia
 
  <iframe title="Aditya Shind on Active cyber deception for attacker intent recognition using factored interactive POMDPs, 12 August 2020" width="580" height="326" src="https://www.youtube.com/embed/lsWOKOcKPFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+<p>
+  
  ## Partners
 
 ![](images/CSCRC_logo-1.png)
