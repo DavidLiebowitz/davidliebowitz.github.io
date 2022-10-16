@@ -49,11 +49,12 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## Presentations
 
-### David Nguyen on HoneyCode
+David Nguyen on HoneyCode
 
 <iframe title="David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020" width="580" height="326" src="https://www.youtube.com/embed/wnj_FqFZNe8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia. Aditya presents their work on Active cyber deception for attacker intent recognition using factored interactive POMDPs.
+
+Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia. Aditya presents their work on Active cyber deception for attacker intent recognition using factored interactive POMDPs.
 
  <iframe title="Aditya Shind on Active cyber deception for attacker intent recognition using factored interactive POMDPs, 12 August 2020" width="580" height="326" src="https://www.youtube.com/embed/lsWOKOcKPFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
