@@ -1,4 +1,3 @@
-# Cyber Deception Research Lab
 
 The UNSW Sydney Cyber Deception Research Lab is a multidisciplinary research group investigating the construction, use and impact of deception. Themes include Machine Learning to create and detect deceptions, metrics and measurements of effectiveness, and perception and cognitive aspects.
 
@@ -6,10 +5,18 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## People
 
+### Research Lead
+
 |![David Liebowitz](/images/David.png)|
 |---|
-|[David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|
+|[Dr David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|
 
+## Collaborators
+
+|![Salil Kanhere](/images/Salil.png)|![Kristen Moore](/images/Kristen.png) {: width="250" } |![Surya Nepal](/images/Dr-Surya-Nepal.png)|
+|---|---|---|
+| Prof Salil Kanhere](https://salilkanhere.net)|[Dr Kristen Moore](https://www.linkedin.com/in/kristenlmoore/)|[Dr Surya Nepal](https://research.csiro.au/distributed-systems-security/people/staff/)|
+[ UNSW Sydney | Data61  | Data61 |
 ## Partners
 
 | ![](images/CSCRC_logo-1.png) | ![](images/penten_logo.png)  |
