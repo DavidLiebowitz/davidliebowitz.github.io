@@ -6,7 +6,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## People
 
-![david.png](https://www.linkedin.com/in/david-liebowitz)
+![images/david.png](https://www.linkedin.com/in/david-liebowitz)
 
 ## Partners
 
