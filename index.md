@@ -25,9 +25,9 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## Masters Students
 
-|![Michael Longland](/images/Michael.png)|![Keerth Rathakumar](/images/Keerth.png)|
+|![Michael Longland](/images/michael.png)|![Keerth Rathakumar](/images/Keerth.jpg)|
 |---|---|
-| Michael Longland](https://www.linkedin.com/i)| [Keerth Rathakumar](https://www.linkedin.com/in/)|
+| Michael Longland](https://www.linkedin.com/i)| Keerth Rathakumar|
 
 ## Past Members
 |![Alexander Bunn](/images/Alex.png)|![Dr Cody Christopher](/images/Cody.png)|![Ricard Grace](/images/Ricard.png)|![Adam Green](/images/Adam.png)|
@@ -40,25 +40,70 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |---|---|---|
 |The CSCRC is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities. We build effective collaborations between industry, government and researchers, creating real-world solutions for pressing cyber-related problems. We achieve this by identifying, funding and supporting research projects that build Australia's cyber security capacity and address issues across the cyber spectrum, both technology and policy related. The CSCRC also undertakes a key public role in cyber security advocacy, providing evidence-based commentary around relevant cyber security issues. | | Penten is a Canberra based, cyber company focused on innovation in secure mobility and applied artificial intelligence (AI). Penten's AltoCrypt family of secure mobility solutions enable mobile secure access to classified information for government. This access provides government workers with the accessibility and flexibility of a modern workplace. Penten's Applied AI business unit creates realistic decoys using a novel combination of machine learning and artificial intelligence to detect and track sophisticated cyber adversaries. In 2018, Penten won Telstra Australian Business of the Year. In 2019, Penten was awarded Cyber Business of the Year at the Australian Defence Industry Awards; Most Innovative Company, Government sector at the AFR and Boss awards and Most Innovative Platform at the AFR and Boss Awards. Penten also ranks in the Top 20 of Australian Defence Magazines ANZ SME list. |
 
-### Header 3
+## Projects
 
-- Bulleted
-- List
+#### Novel database construction
 
-1. Numbered
-2. List
+CODY CHRISTOPHER, WITH SALIL KANHERE, DAVID LIEBOWITZ, SURYA NEPAL
 
-**Bold** and _Italic_ and `Code` text
+Supported by the Cyber Security CRC
 
-[Link](url) and ![Image](src)
-```
+Using a variety of approaches from the machine learning toolkit, we aim to generate novel databases, from relational schema down to data, with control over the degree of realism and sensitivity. The success of this work will also rely on the introduction of new representations of databases, and hierarchically linked generation tasks.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Generation of Synthetic Documents and Embedded Figures
 
-### Jekyll Themes
+DAVID NGUYEN (PHD PROJECT), WITH SALIL KANHERE, DAVID LIEBOWITZ, SURYA NEPAL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidLiebowitz/davidliebowitz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Supported by the Cyber Security CRC
 
-### Support or Contact
+We aim to improve the authenticity of text and non-textual components of decoy documents through focusing on learning representations of hierarchical semantic structure and embedded figures. We attempt to address the challenge of topic consistency and structure missing from existing language models through integrating graph-based learning techniques.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Quantifying and optimising the performance of Cyber Deceptions
+
+ROELIEN TIMMER (PHD PROJECT), WITH SALIL KANHERE, DAVID LIEBOWITZ, SURYA NEPAL
+
+Supported by the Cyber Security CRC
+
+Use modern techniques such as natural language processing and simulation testing to investigate methods of characterising and comparing deceptions such as honeyfiles.
+
+### Contextual Text Generation for Cyber Deception
+
+ALEXANDER BUNN (HONS PROJECT), WITH SALIL KANHERE, DAVID LIEBOWITZ, SURYA NEPAL
+
+Supported by the Cyber Security CRC
+
+We will investigate both current and novel methods of text generation for the use in honeypots exploring applications of style transfer and similar methods to generate topical based textual output on unseen contextual information. The results will be evaluated with the intention of generating text-based content while maintaining control over the context within the generated output.
+
+### Generative Models of Synthetic Software Repositories
+
+DAVID NGUYEN (COMPLETED MSC PROJECT), WITH SALIL KANHERE, DAVID LIEBOWITZ, SURYA NEPAL
+
+Supported by the Cyber Security CRC
+
+Development of machine learning techniques to generate realistic software repositories that generalises across any programming language. Our technique learns the underlying representations of repository structures, filenames and content through a sequential multi-network architecture. Each sequential task utilises samples from prior tasks to improve authenticity and consistency of the synthetic software repository.
+
+See paper and source at https://github.com/dngu7/honeycode
+
+### A Topic Based Multilingual Speech Generator
+
+ADAM GREEN (HONS PROJECT), WITH ALEX ANTIC, DAVID LIEBOWITZ
+
+Supported by the Cyber Security CRC
+
+Creating an end-to-end system capable of generating realistic artificial speech in a chosen language and topic. Such a system requires implementing and extending current state of the art language generation, translation and speech synthesis models. Although significant research exists in each individual area, the combination into an end-to-end system is novel.
+
+### Generating structured document networks
+
+MICHAEL LONGLAND (HONS PROJECT), WITH ALEX ANTIC, DAVID LIEBOWITZ
+
+Generating fake document and websites using deep learning. This involves generating realistic-looking text and document structure - think fake HTML documents or fake Wikipedia articles. Then reasonable links between these documents are generated to make a complete fake website.
+
+### WiFi traffic generation
+
+RICARD GRACE (HONS PROJECT), WITH SALIL KANHERE, DAVID LIEBOWITZ, SURYA NEPAL
+
+Supported by the Cyber Security CRC
+
+This project focuses on automating the synthesis of realistic looking Wi-Fi traffic for use in further deception techniques. Specifically, it involves modelling low level features of Wi-Fi traffic (packet arrivals and size) and reproducing them accurately.
+
+
