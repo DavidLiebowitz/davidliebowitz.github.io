@@ -15,7 +15,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 |![Salil Kanhere](/images/Salil.png)|![Kristen Moore](/images/Kristen.png)|![Surya Nepal](/images/Dr-Surya-Nepal.png)|
 |---|---|---|
-| Prof Salil Kanhere](https://salilkanhere.net)|[Dr Kristen Moore](https://www.linkedin.com/in/kristenlmoore/)|[Dr Surya Nepal](https://research.csiro.au/distributed-systems-security/people/staff/)|
+| [Prof Salil Kanhere](https://salilkanhere.net)|[Dr Kristen Moore](https://www.linkedin.com/in/kristenlmoore/)|[Dr Surya Nepal](https://research.csiro.au/distributed-systems-security/people/staff/)|
 [ UNSW Sydney | Data61  | Data61 |
 ## Partners
 
