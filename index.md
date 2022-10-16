@@ -53,6 +53,7 @@ David Nguyen on HoneyCode
 
 <iframe title="David Nguyen on Generation of Synthetic Software Repositories, 11 June 2020" width="580" height="326" src="https://www.youtube.com/embed/wnj_FqFZNe8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia. Aditya presents their work on Active cyber deception for attacker intent recognition using factored interactive POMDPs.
 
@@ -67,4 +68,3 @@ The Cybersecurity Cooperative Research Centre is dedicated to fostering the next
 ![](images/penten_logo.png) 
 
 Penten is a Canberra based, cyber company focused on innovation in secure mobility and applied artificial intelligence (AI). Penten's AltoCrypt family of secure mobility solutions enable mobile secure access to classified information for government. This access provides government workers with the accessibility and flexibility of a modern workplace. Penten's Applied AI business unit creates realistic decoys using a novel combination of machine learning and artificial intelligence to detect and track sophisticated cyber adversaries. In 2018, Penten won Telstra Australian Business of the Year. In 2019, Penten was awarded Cyber Business of the Year at the Australian Defence Industry Awards; Most Innovative Company, Government sector at the AFR and Boss awards and Most Innovative Platform at the AFR and Boss Awards. Penten also ranks in the Top 20 of Australian Defence Magazines ANZ SME list.
-
