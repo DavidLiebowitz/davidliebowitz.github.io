@@ -20,13 +20,13 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 |![David Nguyen](/images/DavidN.png)|![Roelien Timmer](/images/Roelien.png)|
 |---|---|
-| [David Nguyen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)| [Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
+|[David Nguyen](https://www.linkedin.com/in/david-d-nguyen-b70b4a1a4/)|[Roelien Timmer](https://www.linkedin.com/in/roelien-christien-timmer-4484395b/)|
 
 ## Masters Students
 
 |![Michael Longland](/images/michael.png)|![Keerth Rathakumar](/images/keerth.jpg)|
 |---|---|
-|[Michael Longland](https://www.linkedin.com/in/michael-longland-58a12b12a/)| Keerth Rathakumar|
+|[Michael Longland](https://www.linkedin.com/in/michael-longland-58a12b12a/)|Keerth Rathakumar|
 
 ## Past Members
 |![Alexander Bunn](/images/Alex.png)|![Dr Cody Christopher](/images/Cody.png)|![Ricard Grace](/images/Ricard.png)|![Adam Green](/images/Adam.png)|
