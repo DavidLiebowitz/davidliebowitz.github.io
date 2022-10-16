@@ -5,11 +5,10 @@ The UNSW Sydney Cyber Deception Research Lab is a multidisciplinary research gro
 Launched in early 2020 with support from the [Cyber Security CRC](https://www.cybersecuritycrc.org.au/) and [Penten](https://www.penten.com), our current focus is deceptive content creation. We have a number of projects that learn models of real world elements of the IT stack and generate realistic fakes, including documents, databases, audio and network traffic.
 
 # People
-<p align = "left">
+
 |![David Liebowitz](/images/David.png)| 
 |---|
 |[Dr David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|
-</p>
 
 ## Collaborators
 
