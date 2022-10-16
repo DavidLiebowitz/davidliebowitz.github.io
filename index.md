@@ -8,9 +8,9 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 # People
 
-|![David Liebowitz](/images/David.png)| &nbsp; |
+|![David Liebowitz](/images/David.png)| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |---|---|
-|[Dr David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|&nbsp; |
+|[Dr David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  |
 
 ## Collaborators
 
