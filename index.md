@@ -5,8 +5,6 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 ## People
 
-### Research Lead
-
 |![David Liebowitz](/images/David.png)|
 |---|
 |[Dr David Liebowitz](https://www.linkedin.com/in/david-liebowitz)|
