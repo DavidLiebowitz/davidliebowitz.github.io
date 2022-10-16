@@ -4,7 +4,7 @@ The UNSW Sydney Cyber Deception Research Lab is a multidisciplinary research gro
 
 Launched in early 2020 with support from the [Cyber Security CRC](https://www.cybersecuritycrc.org.au/) and [Penten](https://www.penten.com), our current focus is deceptive content creation. We have a number of projects that learn models of real world elements of the IT stack and generate realistic fakes, including documents, databases, audio and network traffic.
 
-## People
+# People
 
 |![David Liebowitz](/images/David.png){: .align-left}| 
 |---|
@@ -35,7 +35,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 |[Alexander Bunn](https://www.linkedin.com/in/alexander-bunn/)|[Dr Cody Christopher](https://www.linkedin.com/in/cjchristopher/)|Ricard Grace|[Adam Green](https://www.linkedin.com/in/adam-green-5b8238172/)|
 
 
-## Publications
+# Publications
 
 - Kristen Moore, Cody James Christopher, David Liebowitz, Surya Nepal and Renee Selvey. _Modelling direct messaging networks with multiple recipients for cyber deception_. In IEEE European Symposium on Security and Privacy, EuroS&P 2022, Genoa, Italy, June 6-10, 2022. IEEE, 2022 and [arXiv](https://arxiv.org/abs/2111.11932).
 -	David Liebowitz, Surya Nepal, Kristen Moore, Cody Christopher, Salil Kanhere, David Nguyen, Roelien Timmer, Michael Longland and Keerth Rathakumar. _Deception for Cyber Defence: Challenges and Opportunities._ In 2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) 2021 Dec 13 (pp. 173-182) and [arXiv](https://arxiv.org/abs/2208.07127).
@@ -43,7 +43,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 -	Roelien Timmer, David Liebowitz, Surya Nepal and Salil Kanhere. _TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing_, Proceedings of the 55th Hawaii International Conference on System Sciences. 2022 and [arXiv](https://arxiv.org/abs/2203.07580).
 -	David Nguyen, David Liebowitz, Surya Nepal and Salil Kanhere. [_HoneyCode: Automating Deceptive Software Repositories with Deep Generative Models_](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/986b6770-2027-4a7c-8a13-b80808a192db/content), Proceedings of the 54th Hawaii International Conference on System Sciences. 2021.
 
-## Presentations
+# Presentations
 
 David Nguyen on HoneyCode
 
@@ -56,7 +56,7 @@ Aditya Shinde and Prashant Doshi from the THINC Lab at the University of Georgia
 
 <iframe title="Aditya Shind on Active cyber deception for attacker intent recognition using factored interactive POMDPs, 12 August 2020" width="580" height="326" src="https://www.youtube.com/embed/lsWOKOcKPFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Partners
+# Partners
 
 ![ ](images/CSCRC_logo-1.png)
 The Cybersecurity Cooperative Research Centre is dedicated to fostering the next generation of Australian cyber security talent, developing innovative projects to strengthen our nation's security capabilities. We build effective collaborations between industry, government and researchers, creating real-world solutions for pressing cyber-related problems. We achieve this by identifying, funding and supporting research projects that build Australia's cyber security capacity and address issues across the cyber spectrum, both technology and policy related. The CSCRC also undertakes a key public role in cyber security advocacy, providing evidence-based commentary around relevant cyber security issue
