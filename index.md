@@ -60,7 +60,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
 
 &nbsp;
 
-David Liebowitz as ACISP 21 on Machine Learning for Cyber Deception
+David Liebowitz at ACISP 21 on Machine Learning for Cyber Deception
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ki1JuflwD-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
