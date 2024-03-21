@@ -47,6 +47,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
  &nbsp;
 
 # Publications
+- David Nguyen, David Liebowitz, Surya Nepal and Salil Kanhere. _Multiple Hypothesis Dropout: Estimating the Parameters of Multimodal Output Distributions_. AAAI Conference on Artificial Intelligence, 2024 and  [arXiv](https://arxiv.org/abs/2312.11735).
 - Michael Longland, David Liebowitz, Kristen Moore and Salil Kanhere. _Text-Conditioned Graph Generation Using Discrete Graph Variational Autoencoders_. In Australasian Conference on Data Science and Machine Learning, 2023.
 - Kristen Moore, Cody James Christopher, David Liebowitz, Surya Nepal and Renee Selvey. _Modelling direct messaging networks with multiple recipients for cyber deception_. In IEEE European Symposium on Security and Privacy, EuroS&P 2022, Genoa, Italy, June 6-10, 2022. IEEE, 2022 and [arXiv](https://arxiv.org/abs/2111.11932).
 -	David Liebowitz, Surya Nepal, Kristen Moore, Cody Christopher, Salil Kanhere, David Nguyen, Roelien Timmer, Michael Longland and Keerth Rathakumar. _Deception for Cyber Defence: Challenges and Opportunities._ In 2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) 2021 Dec 13 (pp. 173-182) and [arXiv](https://arxiv.org/abs/2208.07127).
