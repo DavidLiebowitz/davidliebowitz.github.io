@@ -47,6 +47,7 @@ Launched in early 2020 with support from the [Cyber Security CRC](https://www.cy
  &nbsp;
 
 # Publications
+- Roelien Timmer, David Liebowitz, Surya Nepal, and Salil Kanhere. _Evaluating Honeyfile Realism and Enticement Metrics_. In ACM Transactions on Privacy and Security, Volume 28, Issue 4, 2025
 - Roelien Timmer, David Liebowitz, Surya Nepal, and Salil Kanhere. _Honeyfile camouflage: Hiding fake files in plain sight_. In Proceedings of the 3rd ACM Workshop on the Security Implications of Deepfakes and Cheapfakes, pp. 1-7. 2024.
 - David Nguyen, David Liebowitz, Surya Nepal and Salil Kanhere. _Multiple Hypothesis Dropout: Estimating the Parameters of Multimodal Output Distributions_. AAAI Conference on Artificial Intelligence, 2024 and  [arXiv](https://arxiv.org/abs/2312.11735).
 - Michael Longland, David Liebowitz, Kristen Moore and Salil Kanhere. _Text-Conditioned Graph Generation Using Discrete Graph Variational Autoencoders_. In Australasian Conference on Data Science and Machine Learning, 2023.
